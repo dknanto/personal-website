@@ -347,6 +347,22 @@ h3 {
   max-width: 54rem;
 }
 
+.strategy-background-layout {
+  grid-template-columns: minmax(0, 1.1fr) minmax(300px, 0.9fr);
+  align-items: start;
+}
+
+.strategy-inline-graphic {
+  padding: 1rem;
+}
+
+.strategy-inline-graphic img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 1rem;
+}
+
 .section-heading {
   max-width: 40rem;
   padding-top: 0.35rem;
