@@ -500,6 +500,11 @@ h3 {
   font-size: 0.94rem;
 }
 
+.featured-project-link {
+  font-size: 1.25rem;
+  font-weight: 500;
+}
+
 .text-link:hover,
 .text-link:focus-visible {
   text-decoration: underline;
